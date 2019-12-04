@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D128BF6-EB05-404D-AD46-495287D2FF00"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF3A0C27-1460-4CFF-A043-520A47CF5D29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Checklists/AddItemTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "AddItemTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DF3A0C27-1460-4CFF-A043-520A47CF5D29 - 195e3e900ef95364"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Checklists.AddItemTableViewController.addBarButton.getter : Swift.Optional&lt;__C.UIBarButtonItem&gt;"
+                  moduleName = "Checklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madalina/Desktop/Projects/Swift/Checklists/Checklists/AddItemTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DF3A0C27-1460-4CFF-A043-520A47CF5D29 - bdbfda38a8135750"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Checklists.AddItemTableViewController.addBarButton.setter : Swift.Optional&lt;__C.UIBarButtonItem&gt;"
+                  moduleName = "Checklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madalina/Desktop/Projects/Swift/Checklists/Checklists/AddItemTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "DF3A0C27-1460-4CFF-A043-520A47CF5D29 - 510e65ebc1c32261"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Checklists.AddItemTableViewController.addBarButton.modify : Swift.Optional&lt;__C.UIBarButtonItem&gt;"
+                  moduleName = "Checklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madalina/Desktop/Projects/Swift/Checklists/Checklists/AddItemTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "DF3A0C27-1460-4CFF-A043-520A47CF5D29 - 9d2ae0707b68d83b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Checklists.AddItemTableViewController.addBarButton.modify : Swift.Optional&lt;__C.UIBarButtonItem&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Checklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madalina/Desktop/Projects/Swift/Checklists/Checklists/AddItemTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "DF3A0C27-1460-4CFF-A043-520A47CF5D29 - dc6a44d8c8d0dc1a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Checklists.AddItemTableViewController.init(style: __C.UITableViewStyle) -&gt; Checklists.AddItemTableViewController"
+                  moduleName = "Checklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madalina/Desktop/Projects/Swift/Checklists/Checklists/AddItemTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "DF3A0C27-1460-4CFF-A043-520A47CF5D29 - e975a1c7917c760"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Checklists.AddItemTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Checklists.AddItemTableViewController"
+                  moduleName = "Checklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madalina/Desktop/Projects/Swift/Checklists/Checklists/AddItemTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "497">
+               </Location>
+               <Location
+                  uuid = "DF3A0C27-1460-4CFF-A043-520A47CF5D29 - d5f65318e17b0d1f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Checklists.AddItemTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Checklists.AddItemTableViewController&gt;"
+                  moduleName = "Checklists"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madalina/Desktop/Projects/Swift/Checklists/Checklists/AddItemTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "438">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
