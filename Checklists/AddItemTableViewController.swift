@@ -3,7 +3,7 @@ import UIKit
 protocol AddItemViewControllerDelegate: class {
     
     func addItemViewControllerDidCancel(_ controller: AddItemTableViewController)
-    func addItemViewControler(_ controller: AddItemTableViewController, didFinishAdding item: ChecklistItem)
+    func addItemViewController(_ controller: AddItemTableViewController, didFinishAdding item: ChecklistItem)
     func addItemViewController(_ controller: AddItemTableViewController, didFinishEditing item: ChecklistItem)
     
         }
@@ -26,14 +26,14 @@ class AddItemTableViewController: UITableViewController {
     @IBAction func done(_ sender: Any) {
         if let item = itemToEdit, let text = textField.text {
             item.text = text
-            delegate?.addItemViewControler(self, didFinishAdding: item)
+            delegate?.addItemViewController(self, didFinishEditing: item)
         } else {
             if let item = todoList?.newTodo() {
                if let textFieldText = textField.text {
                 item.text = textFieldText
             }
             item.checked = false
-            delegate?.addItemViewControler(self, didFinishAdding: item)
+            delegate?.addItemViewController(self, didFinishAdding: item)
             }
         }
         
